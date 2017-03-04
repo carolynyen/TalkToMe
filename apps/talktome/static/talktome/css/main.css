@@ -1,0 +1,37 @@
+*{margin:0px;}
+#outerdiv {
+  height : 400px;
+  width: 700px;
+  border: 1px black solid;
+  overflow: hidden;
+
+}
+#thisdiv {
+    height: 100%;
+    width:99%;
+    overflow: hidden;
+    padding-left: 5px;
+}
+
+html, body{
+    height: 99%;
+    overflow: scroll;
+}
+.inputmessage {
+  width: 575px;
+  height: 20px;
+}
+
+.title{
+    width: 700px;
+    text-align: center;
+    margin: 50px 0 0 0px;
+}
+
+#user {
+  color: green;
+}
+
+#otheruser {
+  color: blue;
+}
